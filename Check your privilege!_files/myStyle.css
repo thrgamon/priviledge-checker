@@ -1,0 +1,40 @@
+#chartholder {
+max-width: 530px;
+max-height: 530px;
+}
+
+#radarChart {
+background: url("http://matthew-cook.com/wp-content/uploads/2022/06/power-border.jpg") no-repeat center; 
+background-size: contain;
+}
+
+h1 {
+margin-top:5px;
+margin-bottom:5px;
+margin-left: 15px;
+}
+
+#form {
+margin-left: 15px;
+padding-bottom: 50px;
+}
+
+.form-inline {
+clear:right;
+}
+
+
+.form-section {
+float:left;
+clear:both;
+margin-right: 20px;
+margin-bottom: 20px;
+}
+
+body {
+margin-left: 5px;
+}
+
+label {
+padding-left:4px;
+}
